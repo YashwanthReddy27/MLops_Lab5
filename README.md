@@ -11,7 +11,7 @@ cd src
 python train.py
 '''
 
-Step 3 
+### Step 3 
 '''bash
 cd ..
 '''
