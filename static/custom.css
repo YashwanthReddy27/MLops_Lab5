@@ -1,0 +1,93 @@
+.scheme-container {
+    background-color: #f5f7fa !important;
+    box-shadow: none !important;
+}
+
+.opblock-tag {
+    border-radius: 4px !important;
+    margin-bottom: 10px !important;
+    border: 1px solid #e0e0e0 !important;
+    background-color: #fff !important;
+}
+
+.opblock {
+    border-radius: 4px !important;
+    margin-bottom: 15px !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05) !important;
+}
+
+.opblock-summary {
+    padding: 10px 15px !important;
+}
+
+.opblock-summary-control:focus {
+    outline: none !important;
+}
+
+.opblock-tag {
+    font-size: 16px !important;
+    font-weight: 600 !important;
+    color: #3b4151 !important;
+}
+
+.opblock-summary-method {
+    border-radius: 3px !important;
+    min-width: 80px !important;
+    text-align: center !important;
+    font-weight: 600 !important;
+    text-transform: uppercase !important;
+    font-size: 12px !important;
+}
+
+.opblock-summary-path {
+    font-size: 14px !important;
+}
+
+.model-title, .model-title__text {
+    font-weight: 600 !important;
+    color: #3b4151 !important;
+}
+
+.model-box {
+    background-color: #f8f9fa !important;
+    border-radius: 4px !important;
+    padding: 15px !important;
+}
+
+.btn.execute {
+    background-color: #4CAF50 !important;
+    border-color: #4CAF50 !important;
+}
+
+.btn.execute:hover {
+    background-color: #3e8e41 !important;
+}
+
+.info {
+    margin: 20px 0 !important;
+}
+
+.info .title {
+    font-size: 28px !important;
+    color: #3b4151 !important;
+    margin-bottom: 10px !important;
+}
+
+.info .description {
+    font-size: 14px !important;
+    line-height: 1.6 !important;
+    color: #555 !important;
+}
+
+.topbar {
+    background-color: #1e88e5 !important;
+    padding: 10px 0 !important;
+}
+
+.download-url-wrapper {
+    display: none !important;
+}
+
+.servers-title, .servers {
+    display: none !important;
+}
